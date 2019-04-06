@@ -1,6 +1,6 @@
 # weatherBot [![GitHub release](https://img.shields.io/github/release/BrianMitchL/weatherBot.svg?maxAge=86400)](https://github.com/BrianMitchL/weatherBot/releases/latest) [![Python Version](https://img.shields.io/badge/python-3.4+-blue.svg)](https://www.python.org) [![Build Status](https://travis-ci.org/BrianMitchL/weatherBot.svg?branch=master)](https://travis-ci.org/BrianMitchL/weatherBot) [![Coverage Status](https://coveralls.io/repos/github/BrianMitchL/weatherBot/badge.svg?branch=master)](https://coveralls.io/github/BrianMitchL/weatherBot?branch=master)
 
-A Twitter bot for weather. [Powered by Dark Sky](https://darksky.net/poweredby/).
+A Twitter bot for weather. [Powered by Dark Sky](https://darksky.net/poweredby/). updated by Sundareshan M
 
 <img src="https://darksky.net/dev/img/attribution/poweredby-oneline.png" alt="Powered by Dark Sky" width="200">
 
